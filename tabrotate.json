@@ -15,11 +15,6 @@
       "duration": 60,
       "tabReloadIntervalSeconds":600
     },
-    {
-      "url": "https://app.powerbi.com/groups/458b7bf0-81ac-44ff-bba2-80c37ca51641/reports/ea5a8f3f-1362-4808-8c35-d15cfbcebc35/ReportSection8dcf04916cca630bbb88?chromeless=1",
-      "duration": 60,
-      "tabReloadIntervalSeconds":600
-    },
     {"url": "https://app.powerbi.com/groups/458b7bf0-81ac-44ff-bba2-80c37ca51641/reports/d7a75f6b-96ed-4c7f-b124-63ebd9605ae6/ReportSection1d303331f30e93c4cdef?chromeless=1",
      "duration" : 60,
      "tabReloadIntervalSeconds":600
@@ -31,6 +26,6 @@
      {"url": "https://app.powerbi.com/groups/458b7bf0-81ac-44ff-bba2-80c37ca51641/reports/ef79da8a-0426-4777-a1c6-91315d282a68/ReportSectionc9ef4d72d14f5930adbc?chromeless=1",
      "duration" : 60,
      "tabReloadIntervalSeconds":600
-    } 
+    }
   ]
 }
