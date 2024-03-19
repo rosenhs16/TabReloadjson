@@ -9,39 +9,39 @@
       "url": "https://app.powerbi.com/groups/458b7bf0-81ac-44ff-bba2-80c37ca51641/reports/ea5a8f3f-1362-4808-8c35-d15cfbcebc35/ReportSectiona1818e7cbfcd52f7b634?chromeless=1",
       "duration": 60,
       "tabReloadIntervalSeconds":600
-    }, "atp"
+    }, 
     {
       "url": "https://app.powerbi.com/groups/458b7bf0-81ac-44ff-bba2-80c37ca51641/reports/ea5a8f3f-1362-4808-8c35-d15cfbcebc35/ReportSectionb557689b1de7dcc181de?chromeless=1",
       "duration": 60,
       "tabReloadIntervalSeconds":600
-    }, "atp-ship plan"
+    }, 
     {"url": "https://app.powerbi.com/groups/458b7bf0-81ac-44ff-bba2-80c37ca51641/reports/d7a75f6b-96ed-4c7f-b124-63ebd9605ae6/ReportSection1d303331f30e93c4cdef?chromeless=1",
      "duration" : 60,
      "tabReloadIntervalSeconds":600
-    }, "book,ship,backlog"
+    }, 
     {"url": "https://app.powerbi.com/groups/458b7bf0-81ac-44ff-bba2-80c37ca51641/reports/d7a75f6b-96ed-4c7f-b124-63ebd9605ae6/ReportSectionebb96b5990785bda2e25?chromeless=1",
      "duration" : 60,
      "tabReloadIntervalSeconds":600
-    }, "por vs shipment"
+    }, 
      {"url": "https://app.powerbi.com/groups/458b7bf0-81ac-44ff-bba2-80c37ca51641/reports/ef79da8a-0426-4777-a1c6-91315d282a68/ReportSectionc9ef4d72d14f5930adbc?chromeless=1",
      "duration" : 60,
      "tabReloadIntervalSeconds":600
-    }, "stepup"
+    }, 
     {"url": "https://app.powerbi.com/groups/458b7bf0-81ac-44ff-bba2-80c37ca51641/reports/d7a75f6b-96ed-4c7f-b124-63ebd9605ae6/ReportSectionb04885b9cbc36ad1e107?chromeless=1",
      "duration" : 60,
      "tabReloadIntervalSeconds":600
-    }, "fsdvc7k"
+    }, 
     {"url": "https://app.powerbi.com/groups/458b7bf0-81ac-44ff-bba2-80c37ca51641/reports/d7a75f6b-96ed-4c7f-b124-63ebd9605ae6/ReportSection476102411b5a1d4b30b9?chromeless=1",
      "duration" : 60,
      "tabReloadIntervalSeconds":600
-    }, "lcp100,200"
+    },
     {"url": "https://app.powerbi.com/groups/458b7bf0-81ac-44ff-bba2-80c37ca51641/reports/db4d686b-aa26-4cf0-a2b5-ba01ddd9fba4/ReportSection55817c371a652cde66e8?chromeless=1",
      "duration" : 60,
      "tabReloadIntervalSeconds":600
-    }, "OTD PDSL Perf"
+    }, 
      {"url": "https://app.powerbi.com/groups/458b7bf0-81ac-44ff-bba2-80c37ca51641/reports/d7a75f6b-96ed-4c7f-b124-63ebd9605ae6/ReportSection4415e782d21c5b37c7bc?chromeless=1",
      "duration" : 60,
      "tabReloadIntervalSeconds":600
-    } "7kstatusupdate"
+    } 
   ]
 }
