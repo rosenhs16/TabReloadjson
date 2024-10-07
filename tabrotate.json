@@ -6,12 +6,12 @@
   "closeExistingTabs": true,
   "websites": [
     {
-      "url": "https://app.powerbi.com/groups/458b7bf0-81ac-44ff-bba2-80c37ca51641/reports/ea5a8f3f-1362-4808-8c35-d15cfbcebc35/ReportSectiona1818e7cbfcd52f7b634?chromeless=1",
+      "url": "https://app.powerbi.com/groups/458b7bf0-81ac-44ff-bba2-80c37ca51641/reports/06b2c1d8-5e84-42ed-b396-79750bba74b0/ReportSectiona1818e7cbfcd52f7b634?chromeless=1",
       "duration": 60,
       "tabReloadIntervalSeconds":600
     }, 
     {
-      "url": "https://app.powerbi.com/groups/458b7bf0-81ac-44ff-bba2-80c37ca51641/reports/ea5a8f3f-1362-4808-8c35-d15cfbcebc35/ReportSectionb557689b1de7dcc181de?chromeless=1",
+      "url": "https://app.powerbi.com/groups/458b7bf0-81ac-44ff-bba2-80c37ca51641/reports/06b2c1d8-5e84-42ed-b396-79750bba74b0/ReportSectionb557689b1de7dcc181de?chromeless=1",
       "duration": 60,
       "tabReloadIntervalSeconds":600
     }, 
